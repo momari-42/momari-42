@@ -7,7 +7,7 @@ As a student at 1337, I immerse myself in hands-on projects and challenges that 
 ## 💻 Projects
 In my pursuit of knowledge and skill development, I've undertaken numerous projects, seven of which are showcased on my GitHub profile. These projects reflect my dedication to learning and experimentation.
 ### List of my projects
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
+- [libft]([https://www.linkedin.com/in/YourLinkedInProfile](https://github.com/momari-42/libft))
 - [libft](https://www.linkedin.com/in/YourLinkedInProfile)
 - [libft](https://www.linkedin.com/in/YourLinkedInProfile)
 - [libft](https://www.linkedin.com/in/YourLinkedInProfile)

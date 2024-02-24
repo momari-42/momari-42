@@ -5,18 +5,17 @@ I'm currently a student at 1337 in Khouribga, passionate about exploring the vas
 As a student at 1337, I immerse myself in hands-on projects and challenges that push the boundaries of my technical abilities. I've embarked on a journey to understand the complexities of cybersecurity, leveraging my curiosity and determination to unravel its mysteries.
 
 ## 💻 Projects
-In my pursuit of knowledge and skill development, I've undertaken numerous projects, seven of which are showcased on my GitHub profile. These projects reflect my dedication to learning and experimentation.
+In my pursuit of knowledge and skill development, I've undertaken numerous projects, six of which are showcased on my GitHub profile. These projects reflect my dedication to learning and experimentation.
 ### List of my projects
 - [libft](https://github.com/momari-42/libft)
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
-- [libft](https://www.linkedin.com/in/YourLinkedInProfile)
+- [ft_printf](https://github.com/momari-42/ft_printf)
+- [get_next_line](https://github.com/momari-42/get_next_line)
+- [pipex](https://github.com/momari-42/pipex)
+- [push_swap](https://github.com/momari-42/push_swap)
+- [so_long](https://github.com/momari-42/so_long)
 
 ## 🎓 Current Focus
-At present, I'm deeply engaged in expanding my expertise in cybersecurity. Through self-directed learning and guided study, I'm exploring various facets of this field, including ethical hacking, network security, cryptography, and more. My goal is to not only acquire technical proficiency but also to develop a comprehensive understanding of the ethical implications and responsibilities inherent in cybersecurity practices.
+Currently, my primary focus is on completing the common core curriculum at 1337, where I'm actively engaged in honing my coding skills and problem-solving abilities. Concurrently, I remain deeply passionate about cybersecurity and continue to explore various aspects of the field, including ethical hacking, network security, cryptography, and more. My aim is to strike a balance between mastering the fundamentals of software development and expanding my knowledge in cybersecurity, thereby equipping myself with a well-rounded skill set for the future.
 
 ## 🌟 Let's Connect
 I'm always eager to connect with fellow enthusiasts, exchange ideas, and collaborate on exciting projects. Feel free to reach out to me via:

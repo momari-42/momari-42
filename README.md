@@ -21,20 +21,12 @@ Currently, my primary focus is on completing the common core curriculum at 1337,
 I'm always eager to connect with fellow enthusiasts, exchange ideas, and collaborate on exciting projects. Feel free to reach out to me via:
 
 <p align="center" dir="auto">
-	<a href="mailto:achraf.elkhnissi@icloud.com">
-		<img alt="Feel free to contact me" src="https://camo.githubusercontent.com/09353078304656669b29488c59e57a02bd9f7ab6386a70320989891702ef6d84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41736b5f6d655f616e797468696e672d626c75653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6163687261662e656c6b686e6973736940676d61696c2e636f6d26636f6c6f723d336438356336" data-canonical-src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:achraf.elkhnissi@gmail.com&amp;color=3d85c6" style="max-width: 100%;">
+	<a href="mailto:mohammeed.omari@gmail.com">
+		<img alt="Feel free to contact me" src="https://camo.githubusercontent.com/09353078304656669b29488c59e57a02bd9f7ab6386a70320989891702ef6d84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41736b5f6d655f616e797468696e672d626c75653f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6163687261662e656c6b686e6973736940676d61696c2e636f6d26636f6c6f723d336438356336" data-canonical-src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:mohammeed.omari@gmail.com&amp;color=3d85c6" style="max-width: 100%;">
 	</a>
 	<span> -- </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/" rel="nofollow">
-        <img alt="Linkedin Profile" src="https://camo.githubusercontent.com/f1bb52dba4735e5406e976cfe18d4fc909a8ef73f5497f551f24d55a4c58edde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3030373262313f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616368726166656c6b686e697373692f" data-canonical-src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/achrafelkhnissi/" style="max-width: 100%;">
-    </a>
-    <span> -- </span>
-    <a href="https://twitter.com/suprivada" rel="nofollow">
-        <img alt="Twitter Profile" src="https://camo.githubusercontent.com/9c02abada55a8b09e04ac7f75ebff7877fa8b284f058c269d624b6724564fe05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3030373262313f7374796c653d666c6174266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616368726166656c6b686e697373692f26636f6c6f723d314441314632" data-canonical-src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&amp;logo=Twitter&amp;logoColor=white&amp;link=https://www.linkedin.com/in/achrafelkhnissi/&amp;color=1DA1F2" style="max-width: 100%;">
-    </a>
-    <span> -- </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/" rel="nofollow">
-        <img alt="Discord Profile" src="https://camo.githubusercontent.com/271bdbd88b90f045b5118baa61aed96c84b76c6cd8ee41c25fe69cb233374ca9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d3030373262313f7374796c653d666c6174266c6f676f3d446973636f7264266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616368726166656c6b686e697373692f26636f6c6f723d373238396461" data-canonical-src="https://img.shields.io/badge/-Discord-0072b1?style=flat&amp;logo=Discord&amp;logoColor=white&amp;link=https://www.linkedin.com/in/achrafelkhnissi/&amp;color=7289da" style="max-width: 100%;">
+    <a href="https://www.linkedin.com/in/mohammed-omari-24a338249?" rel="nofollow">
+        <img alt="Linkedin Profile" src="https://camo.githubusercontent.com/f1bb52dba4735e5406e976cfe18d4fc909a8ef73f5497f551f24d55a4c58edde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3030373262313f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616368726166656c6b686e697373692f" data-canonical-src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mohammed-omari-24a338249?" style="max-width: 100%;">
     </a>
 </p>
 

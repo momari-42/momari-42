@@ -11,7 +11,7 @@ In my pursuit of knowledge and skill development, I've undertaken numerous proje
 - [ft_printf](https://github.com/momari-42/ft_printf)
 - [get_next_line](https://github.com/momari-42/get_next_line)
 - [pipex](https://github.com/momari-42/pipex)
-- [push_swap](https://github.com/momari-42/push_swap)
+- [push_swap](https://github.com/momari-42/push-swap)
 - [so_long](https://github.com/momari-42/so_long)
 
 ## 🎓 Current Focus
